@@ -1,0 +1,11 @@
+{
+    "name": "flexpress/component-metabox",
+    "license": "MIT",
+    "description": "Meta box helper for WordPress",
+    "autoload": {
+        "psr-4": {
+            "FlexPress\\Components\\MetaBox\\": "src/FlexPress/Components/MetaBox/"
+        }
+    }
+
+}
